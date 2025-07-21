@@ -18,7 +18,7 @@ They are fine. They let you host 25mb of content directly on their servers under
 
 ## Credits and Sources
 
-Website initial template from https://sadgrl.online/
-Main font source: Sour Gummy https://fonts.google.com/specimen/Sour+Gummy
-Current background image: https://codepen.io/sadness97/full/dPoEqNN ( cloudynite.gif )
-( I would like to find the actual source of this image, but so far I haven't had much luck )
+ * Website initial template from https://sadgrl.online/
+ * Main font source: Sour Gummy https://fonts.google.com/specimen/Sour+Gummy
+ * Current background image: https://codepen.io/sadness97/full/dPoEqNN ( cloudynite.gif )
+ * ( I would like to find the actual source of this image, but so far I haven't had much luck )
