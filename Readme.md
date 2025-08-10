@@ -4,6 +4,18 @@
 
 it's the code to allani.ca 
 
+## Recent Changes
+
+### June 2024 Refactor
+
+- Did a full cleanup and refactor of all CSS and HTML.
+- Renamed all classes and IDs to be more modern and semantic.
+- Grouped and commented the CSS so it's much easier to follow and maintain.
+- Removed a bunch of old, unused, or redundant styles and markup.
+- Made the HTML more readable and consistent across all templates.
+- Navigation and layout are now standardized everywhere.
+- Everything should be easier to extend and update going forward!
+
 ## How is it generated
 
 By hand, no use of AI. With help from some friends and resources online.
